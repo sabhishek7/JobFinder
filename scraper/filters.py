@@ -14,17 +14,15 @@ import datetime
 from difflib import SequenceMatcher
 
 # ---- Role matching ----
-# Deliberately narrow: require an actual web/frontend/UI-UX signal, not just
-# "software engineer" -- that generic phrase matches backend, Android, ML,
-# infra roles equally, which is why v1 let Android/Kotlin and Go/Scala
-# postings through.
+# Deliberately narrow: require a Java/Spring/backend or web-stack signal, not
+# just "software engineer" by itself.
 ROLE_KEYWORDS = [
-    "web developer", "web development", "web application", "web app",
-    "frontend", "front-end", "front end",
-    "react", "react.js", "reactjs", "vue", "vue.js", "angular",
-    "javascript", "typescript", "html", "css", "html5", "css3",
-    "ui/ux", "ui ux", "ux designer", "ui designer", "product designer",
-    "react developer", "javascript developer", "frontend developer",
+    "java developer", "java engineer", "java software engineer",
+    "backend developer", "backend engineer", "software developer",
+    "spring", "spring boot", "springboot", "spring framework",
+    "hibernate", "jpa", "microservices", "rest api", "restful api",
+    "mysql", "sql", "database",
+    "html", "html5", "javascript", "js",
     "full stack", "fullstack", "full-stack",
 ]
 
@@ -67,10 +65,12 @@ US_ONLY_SIGNALS = [
 YEARS_PATTERN = re.compile(
     r"(\d{1,2})\s*\+?\s*(?:-\s*\d{1,2}\s*)?years?[^.]{0,40}?experience", re.IGNORECASE
 )
-MAX_YEARS_ALLOWED = 2  # you have ~1 year; allow some buffer for "0-2" / "1-3" style ranges
+MAX_YEARS_ALLOWED = 1  # target fresher / entry-level / 0-1 year roles
 
 JUNIOR_KEYWORDS = [
-    "junior", "entry level", "entry-level", "graduate", "fresher",
+    "fresher", "fresh graduate", "graduate", "new grad", "new graduate",
+    "entry level", "entry-level", "junior", "trainee", "internship",
+    "0-1 year", "0 to 1 year", "1 year", "1+ year",
 ]
 SENIOR_TITLE_KEYWORDS = [
     "senior", "staff", "principal", "lead ", "director", " vp ", "head of",
@@ -88,13 +88,11 @@ def matches_role(job: dict) -> bool:
     if not any(kw in text for kw in ROLE_KEYWORDS):
         return False
 
-    # Even with a role keyword hit, drop it if strong non-web signals dominate
-    # and there's no direct web-tech mention in the title itself (guards
-    # against e.g. "Software Engineer" postings that mention "web" once in
-    # a boilerplate paragraph but are actually Android/backend roles).
+    # Even with a role keyword hit, drop it if strong unrelated signals dominate
+    # and there's no direct Java/web-stack mention in the title itself.
     title = job.get("title", "").lower()
     if any(kw in text for kw in NON_WEB_EXCLUDE_KEYWORDS) and not any(
-        kw in title for kw in ["web", "frontend", "front-end", "front end", "ui", "ux", "react"]
+        kw in title for kw in ["java", "spring", "backend", "full stack", "fullstack", "software developer"]
     ):
         return False
 
@@ -124,6 +122,10 @@ def matches_experience(job: dict) -> bool:
     min_years = extract_min_years_required(job)
     if min_years is not None:
         return min_years <= MAX_YEARS_ALLOWED
+
+    text = f"{job.get('title','')} {job.get('raw_content','')}".lower()
+    if any(kw in text for kw in JUNIOR_KEYWORDS):
+        return True
 
     title = job.get("title", "").lower()
     if any(kw in title for kw in SENIOR_TITLE_KEYWORDS):
