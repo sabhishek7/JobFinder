@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:33:33.153838+00:00",
+  "generated_at": "2026-09-05T07:03:12.618447+00:00",
   "count": 10,
   "jobs": [
     {
@@ -33,6 +33,16 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8623751002"
     },
     {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-01",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+    },
+    {
       "title": "Associate TSE II",
       "company": "MongoDB",
       "location": "Sydney",
@@ -63,16 +73,6 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002"
     },
     {
-      "title": "Sales Development Representative, UK&I",
-      "company": "Vercel",
-      "location": "Hybrid - London",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-28",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
-    },
-    {
       "title": "Backend Engineer, AI Engineering: Duo Chat",
       "company": "GitLab",
       "location": "Remote, Canada; Remote, United States",
@@ -83,24 +83,24 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002"
     },
     {
-      "title": "Account Development Representative",
+      "title": "Account Development Representative - English Speaking",
       "company": "MongoDB",
-      "location": "Dublin, Ireland",
+      "location": "Kuala Lumpur",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-09-01",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8081378"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
     {
-      "title": "Data Entry Clerk",
-      "company": "Astrek Careers",
-      "location": "",
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
       "work_mode": "Remote",
-      "salary": "$50,000 - $70,000 (USD, RemoteOK)",
-      "posted": "2026-09-02",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286"
+      "salary": "Not disclosed",
+      "posted": "2026-09-01",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     }
   ]
 }
