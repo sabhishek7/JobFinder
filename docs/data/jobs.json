@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T07:03:12.618447+00:00",
+  "generated_at": "2026-09-06T07:14:10.983935+00:00",
   "count": 10,
   "jobs": [
     {
@@ -35,12 +35,12 @@
     {
       "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Gurugram",
+      "location": "Bengaluru",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-09-01",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
     },
     {
       "title": "Associate TSE II",
@@ -93,14 +93,14 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
     {
-      "title": "Commercial Growth Account Executive",
-      "company": "MongoDB",
-      "location": "Toronto",
+      "title": "Data Entry Clerk",
+      "company": "Astrek Careers",
+      "location": "",
       "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-01",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
+      "salary": "$50,000 - $70,000 (USD, RemoteOK)",
+      "posted": "2026-09-02",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286"
     }
   ]
 }
