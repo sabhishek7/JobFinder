@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-09-07T07:27:57.472407+00:00",
+  "generated_at": "2026-09-08T07:21:42.074423+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Backend Engineer, Geo Team",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-31",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8695515002"
-    },
-    {
-      "title": "Intermediate Backend Engineer - Database Change Management",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-31",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8722304002"
-    },
-    {
-      "title": "Intermediate Fullstack Engineer - Data Products",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-08-31",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8623751002"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Bengaluru",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-01",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
-    },
     {
       "title": "Associate TSE II",
       "company": "MongoDB",
@@ -73,14 +33,34 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002"
     },
     {
-      "title": "Backend Engineer, AI Engineering: Duo Chat",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, United States",
+      "title": "Engineering Architect  - DX/AX/UX",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
+    },
+    {
+      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-09-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
+    },
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Dublin, Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-08-31",
+      "posted": "2026-09-01",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8081378"
     },
     {
       "title": "Account Development Representative - English Speaking",
@@ -91,6 +71,26 @@
       "posted": "2026-09-01",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
+    },
+    {
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-01",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "MongoDB",
+      "location": "Dubai",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-01",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7578590"
     },
     {
       "title": "Data Entry Clerk",
