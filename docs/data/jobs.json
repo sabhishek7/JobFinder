@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:30:16.381480+00:00",
+  "generated_at": "2026-09-10T07:26:27.708582+00:00",
   "count": 10,
   "jobs": [
     {
@@ -63,6 +63,26 @@
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8132266"
     },
     {
+      "title": "Compliance Operations Specialist",
+      "company": "Twilio",
+      "location": "Remote - Estonia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-09",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185918"
+    },
+    {
+      "title": "Program Coordinator, Early Talent",
+      "company": "MongoDB",
+      "location": "Austin",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-10",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8106084"
+    },
+    {
       "title": "Technical Account Manager",
       "company": "Datadog",
       "location": "Tokyo, Japan",
@@ -81,26 +101,6 @@
       "posted": "2026-09-08",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
-    },
-    {
-      "title": "Technical Account Manager 3 - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225"
-    },
-    {
-      "title": "Commercial Renewals Manager",
-      "company": "Okta",
-      "location": "Manila, Philippines",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
     }
   ]
 }
