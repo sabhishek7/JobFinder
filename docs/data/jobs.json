@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-10T07:26:27.708582+00:00",
+  "generated_at": "2026-09-11T07:24:42.641471+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Intermediate Backend Engineer",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-03",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002"
-    },
     {
       "title": "Engineering Architect  - DX/AX/UX",
       "company": "Okta",
@@ -43,36 +33,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8072094"
     },
     {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
-    },
-    {
-      "title": "Fraud Specialist 1",
-      "company": "Twilio",
-      "location": "Remote - Estonia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8132266"
-    },
-    {
-      "title": "Compliance Operations Specialist",
-      "company": "Twilio",
-      "location": "Remote - Estonia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-09",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185918"
-    },
-    {
       "title": "Program Coordinator, Early Talent",
       "company": "MongoDB",
       "location": "Austin",
@@ -83,24 +43,64 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8106084"
     },
     {
-      "title": "Technical Account Manager",
+      "title": "Manager I, Engineering - Security Libraries",
       "company": "Datadog",
+      "location": "Paris, France",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-10",
+      "source": "Greenhouse",
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+    },
+    {
+      "title": "Compliance Operations Specialist",
+      "company": "Twilio",
+      "location": "Remote - Estonia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-10",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185918"
+    },
+    {
+      "title": "Fraud Specialist 1",
+      "company": "Twilio",
+      "location": "Remote - Estonia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-10",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8132266"
+    },
+    {
+      "title": "Account Development Representative - English Speaking",
+      "company": "MongoDB",
+      "location": "Kuala Lumpur",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
+    },
+    {
+      "title": "Commercial Renewals Manager",
+      "company": "Okta",
+      "location": "Manila, Philippines",
+      "work_mode": "Hybrid",
+      "salary": "Not disclosed",
+      "posted": "2026-09-08",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+    },
+    {
+      "title": "Field Marketing Specialist",
+      "company": "Okta",
       "location": "Tokyo, Japan",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
       "posted": "2026-09-08",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8018694/?gh_jid=8018694"
-    },
-    {
-      "title": "Technical Account Manager 2 - Boston",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-08",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8026835/?gh_jid=8026835"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
     }
   ]
 }
