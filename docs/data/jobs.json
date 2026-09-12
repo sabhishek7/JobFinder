@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-09-11T07:24:42.641471+00:00",
+  "generated_at": "2026-09-12T07:16:57.895021+00:00",
   "count": 10,
   "jobs": [
+    {
+      "title": "Specialist, Sales Compensation",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
+    },
     {
       "title": "Engineering Architect  - DX/AX/UX",
       "company": "Okta",
       "location": "Bengaluru, India",
       "work_mode": "Hybrid",
       "salary": "Not disclosed",
-      "posted": "2026-09-08",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
     },
@@ -18,29 +28,9 @@
       "location": "Bengaluru, India",
       "work_mode": "On-site",
       "salary": "Not disclosed",
-      "posted": "2026-09-08",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Dublin",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-07",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8072094"
-    },
-    {
-      "title": "Program Coordinator, Early Talent",
-      "company": "MongoDB",
-      "location": "Austin",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-10",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8106084"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -53,24 +43,14 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Compliance Operations Specialist",
-      "company": "Twilio",
-      "location": "Remote - Estonia",
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Toronto",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-10",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185918"
-    },
-    {
-      "title": "Fraud Specialist 1",
-      "company": "Twilio",
-      "location": "Remote - Estonia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-10",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8132266"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
     },
     {
       "title": "Account Development Representative - English Speaking",
@@ -83,24 +63,44 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
     {
-      "title": "Commercial Renewals Manager",
-      "company": "Okta",
-      "location": "Manila, Philippines",
-      "work_mode": "Hybrid",
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-08",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8110717?gh_jid=8110717"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     },
     {
-      "title": "Field Marketing Specialist",
-      "company": "Okta",
-      "location": "Tokyo, Japan",
-      "work_mode": "Hybrid",
+      "title": "Enterprise Account Executive",
+      "company": "MongoDB",
+      "location": "Dubai",
+      "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-08",
+      "posted": "2026-09-11",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8129579?gh_jid=8129579"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7578590"
+    },
+    {
+      "title": "Enterprise Business Development Representative ",
+      "company": "MongoDB",
+      "location": "Mexico City",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
+    },
+    {
+      "title": "Inside Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8021118"
     }
   ]
 }
