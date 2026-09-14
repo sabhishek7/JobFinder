@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T07:35:31.927707+00:00",
+  "generated_at": "2026-09-14T08:01:55.272637+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,16 +23,6 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
     },
     {
-      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
-    },
-    {
       "title": "Manager I, Engineering - Security Libraries",
       "company": "Datadog",
       "location": "Paris, France",
@@ -45,12 +35,12 @@
     {
       "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Toronto",
+      "location": "Dublin, Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-09-11",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8081378"
     },
     {
       "title": "Account Development Representative - English Speaking",
@@ -101,6 +91,16 @@
       "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8021118"
+    },
+    {
+      "title": "Program Coordinator, Early Talent",
+      "company": "MongoDB",
+      "location": "Austin",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-11",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8106084"
     }
   ]
 }
