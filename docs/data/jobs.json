@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:01:55.272637+00:00",
+  "generated_at": "2026-09-15T07:56:35.786463+00:00",
   "count": 10,
   "jobs": [
     {
@@ -11,6 +11,26 @@
       "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
+    },
+    {
+      "title": "Intermediate Backend Engineer",
+      "company": "GitLab",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-14",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002"
+    },
+    {
+      "title": "Intermediate Backend Engineer - Database Change Management",
+      "company": "GitLab",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-14",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8722304002"
     },
     {
       "title": "Engineering Architect  - DX/AX/UX",
@@ -81,26 +101,6 @@
       "posted": "2026-09-11",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
-    },
-    {
-      "title": "Inside Account Executive",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8021118"
-    },
-    {
-      "title": "Program Coordinator, Early Talent",
-      "company": "MongoDB",
-      "location": "Austin",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8106084"
     }
   ]
 }
