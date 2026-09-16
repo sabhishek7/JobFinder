@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-15T07:56:35.786463+00:00",
+  "generated_at": "2026-09-16T07:49:33.088129+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Specialist, Sales Compensation",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
-    },
     {
       "title": "Intermediate Backend Engineer",
       "company": "GitLab",
@@ -33,6 +23,26 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8722304002"
     },
     {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-15",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+    },
+    {
+      "title": "Specialist, Sales Compensation",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-15",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
+    },
+    {
       "title": "Engineering Architect  - DX/AX/UX",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -43,24 +53,14 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
     },
     {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
+      "title": "Backend Engineer, AI Engineering: Duo Chat",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-10",
+      "posted": "2026-09-14",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8081378"
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002"
     },
     {
       "title": "Account Development Representative - English Speaking",
@@ -68,7 +68,7 @@
       "location": "Kuala Lumpur",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-11",
+      "posted": "2026-09-15",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
@@ -78,7 +78,7 @@
       "location": "Toronto",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-11",
+      "posted": "2026-09-15",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     },
@@ -88,19 +88,19 @@
       "location": "Dubai",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-11",
+      "posted": "2026-09-15",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7578590"
     },
     {
-      "title": "Enterprise Business Development Representative ",
-      "company": "MongoDB",
-      "location": "Mexico City",
+      "title": "Sr Solutions Architect",
+      "company": "ExtraHop",
+      "location": "Remote",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
+      "posted": "2026-09-15",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
     }
   ]
 }
