@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:54:11.640199+00:00",
+  "generated_at": "2026-09-18T07:32:29.145251+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,6 +23,16 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8722304002"
     },
     {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+    },
+    {
       "title": "Specialist, Sales Compensation",
       "company": "MongoDB",
       "location": "Gurugram",
@@ -41,16 +51,6 @@
       "posted": "2026-09-17",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
-    },
-    {
-      "title": "Engineering Architect  - DX/AX/UX",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Hybrid",
-      "salary": "Not disclosed",
-      "posted": "2026-09-11",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7783603?gh_jid=7783603"
     },
     {
       "title": "Backend Engineer, AI Engineering: Duo Chat",
@@ -73,16 +73,6 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
-    },
-    {
       "title": "Account Development Representative - English Speaking",
       "company": "MongoDB",
       "location": "Kuala Lumpur",
@@ -91,6 +81,16 @@
       "posted": "2026-09-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
+    },
+    {
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     },
     {
       "title": "Sr Solutions Architect",
