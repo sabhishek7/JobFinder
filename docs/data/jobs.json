@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-18T07:32:29.145251+00:00",
+  "generated_at": "2026-09-19T07:27:58.588227+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Intermediate Backend Engineer",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-14",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8736877002"
-    },
     {
       "title": "Intermediate Backend Engineer - Database Change Management",
       "company": "GitLab",
@@ -53,6 +43,16 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
     },
     {
+      "title": "Associate Technical Writer",
+      "company": "Hevo Data",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-18",
+      "source": "Lever",
+      "apply_url": "https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74"
+    },
+    {
       "title": "Backend Engineer, AI Engineering: Duo Chat",
       "company": "GitLab",
       "location": "Remote, Canada; Remote, United States",
@@ -61,16 +61,6 @@
       "posted": "2026-09-14",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002"
-    },
-    {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-15",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
       "title": "Account Development Representative - English Speaking",
@@ -91,6 +81,16 @@
       "posted": "2026-09-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "MongoDB",
+      "location": "Dubai",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7578590"
     },
     {
       "title": "Sr Solutions Architect",
