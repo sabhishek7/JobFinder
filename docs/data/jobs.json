@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:51:51.884832+00:00",
+  "generated_at": "2026-09-23T07:53:38.795216+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,16 +23,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
     },
     {
-      "title": "Consulting Architect - Platform",
-      "company": "Elastic",
-      "location": "India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-17",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
-    },
-    {
       "title": "Associate Technical Writer",
       "company": "Hevo Data",
       "location": "Bangalore, India",
@@ -41,6 +31,16 @@
       "posted": "2026-09-18",
       "source": "Lever",
       "apply_url": "https://jobs.lever.co/hevodata/8334030a-d6e3-46cc-96a4-f16c5412ed74"
+    },
+    {
+      "title": "Partner Development Manager",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-22",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
     },
     {
       "title": "Associate Software Development Engineer (SDE)",
@@ -93,14 +93,14 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
     },
     {
-      "title": "Sr Solutions Architect",
-      "company": "ExtraHop",
-      "location": "Remote",
+      "title": "Inside Account Executive",
+      "company": "MongoDB",
+      "location": "Chicago",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-15",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394"
+      "posted": "2026-09-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8122877"
     }
   ]
 }
