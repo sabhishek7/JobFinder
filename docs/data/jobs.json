@@ -1,26 +1,16 @@
 {
-  "generated_at": "2026-09-23T07:53:38.795216+00:00",
+  "generated_at": "2026-09-24T07:43:58.355397+00:00",
   "count": 10,
   "jobs": [
     {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Gurugram",
+      "title": "Consulting Architect - Platform",
+      "company": "Elastic",
+      "location": "India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-16",
+      "posted": "2026-09-17",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
-    },
-    {
-      "title": "Specialist, Sales Compensation",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
     },
     {
       "title": "Associate Technical Writer",
@@ -53,54 +43,64 @@
       "apply_url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a"
     },
     {
-      "title": "Account Development Representative - English Speaking",
-      "company": "MongoDB",
-      "location": "Kuala Lumpur",
+      "title": "Sales Development Representative, UK&I",
+      "company": "Vercel",
+      "location": "Hybrid - London",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-16",
+      "posted": "2026-09-17",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
     },
     {
-      "title": "Commercial Growth Account Executive",
-      "company": "MongoDB",
-      "location": "Toronto",
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "location": "Paris, France",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-16",
+      "posted": "2026-09-18",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Enterprise Account Executive",
-      "company": "MongoDB",
-      "location": "Dubai",
+      "title": "Business Development Representative , Startups",
+      "company": "Vercel",
+      "location": "Hybrid - London",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-16",
+      "posted": "2026-09-18",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7578590"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004"
     },
     {
-      "title": "Enterprise Business Development Representative ",
+      "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Mexico City",
+      "location": "New York City",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-16",
+      "posted": "2026-09-22",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310506"
     },
     {
-      "title": "Inside Account Executive",
-      "company": "MongoDB",
-      "location": "Chicago",
+      "title": "Compliance Operations Specialist",
+      "company": "Twilio",
+      "location": "Remote - Estonia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-16",
+      "posted": "2026-09-23",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8122877"
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185918"
+    },
+    {
+      "title": "Software Developer Security Analytics",
+      "company": "RedMimicry",
+      "location": "",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-22",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417"
     }
   ]
 }
