@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-27T08:27:00.489460+00:00",
+  "generated_at": "2026-09-28T08:51:47.331454+00:00",
   "count": 10,
   "jobs": [
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Bengaluru",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-09-24",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
+    },
     {
       "title": "Partner Development Manager",
       "company": "MongoDB",
@@ -41,16 +51,6 @@
       "posted": "2026-09-21",
       "source": "Lever",
       "apply_url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "New York City",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310506"
     },
     {
       "title": "Account Development Representative - English Speaking",
