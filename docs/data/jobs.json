@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-10-01T09:14:10.855833+00:00",
+  "generated_at": "2026-10-02T08:47:59.474973+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Bengaluru",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
-    },
-    {
-      "title": "Partner Development Manager",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
-    },
-    {
-      "title": "Specialist, Sales Compensation",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-24",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
-    },
     {
       "title": "Intermediate Backend Engineer - Database Change Management",
       "company": "GitLab",
@@ -43,64 +13,94 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8722304002"
     },
     {
-      "title": "Account Development Representative - English Speaking",
-      "company": "MongoDB",
-      "location": "Kuala Lumpur",
+      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-10-01",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
     },
     {
-      "title": "Commercial Growth Account Executive",
-      "company": "MongoDB",
-      "location": "Toronto",
+      "title": "Consulting Architect - Platform",
+      "company": "Elastic",
+      "location": "India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-10-01",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
+      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
     },
     {
-      "title": "Enterprise Account Executive",
-      "company": "MongoDB",
-      "location": "Dubai",
+      "title": "Backend Engineer, AI Engineering: Duo Chat",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-09-29",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7578590"
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002"
     },
     {
-      "title": "Enterprise Business Development Representative ",
-      "company": "MongoDB",
-      "location": "Mexico City",
+      "title": "Manager I, Engineering - Security Libraries",
+      "company": "Datadog",
+      "location": "Paris, France",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-09-29",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
+      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
-      "title": "Inside Account Executive",
+      "title": "Account Development Representative - Benelux/Nordics",
       "company": "MongoDB",
-      "location": "Toronto",
+      "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-09-30",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8021118"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     },
     {
-      "title": "Senior Python Engineer",
+      "title": "Regional Vice President, Enterprise, Growth",
       "company": "MongoDB",
-      "location": "United States",
+      "location": "Paris",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-24",
+      "posted": "2026-09-30",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7742875"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221350"
+    },
+    {
+      "title": "Compliance Operations Specialist",
+      "company": "Twilio",
+      "location": "Remote - Estonia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-01",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185918"
+    },
+    {
+      "title": "Financial Manager",
+      "company": "Twilio",
+      "location": "Remote - Canada",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-01",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8196096"
+    },
+    {
+      "title": "Fraud Specialist 1",
+      "company": "Twilio",
+      "location": "Remote - Estonia",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8132266"
     }
   ]
 }
