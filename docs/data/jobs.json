@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T08:47:59.474973+00:00",
+  "generated_at": "2026-10-03T08:25:26.637700+00:00",
   "count": 10,
   "jobs": [
     {
@@ -31,6 +31,16 @@
       "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
+    },
+    {
+      "title": "Enterprise Account Executive, Bengaluru",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
     },
     {
       "title": "Backend Engineer, AI Engineering: Duo Chat",
@@ -91,16 +101,6 @@
       "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8196096"
-    },
-    {
-      "title": "Fraud Specialist 1",
-      "company": "Twilio",
-      "location": "Remote - Estonia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-02",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8132266"
     }
   ]
 }
