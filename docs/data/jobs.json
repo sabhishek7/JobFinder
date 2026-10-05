@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:38:31.364781+00:00",
+  "generated_at": "2026-10-05T09:25:07.116891+00:00",
   "count": 10,
   "jobs": [
     {
@@ -83,16 +83,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221350"
     },
     {
-      "title": "Compliance Operations Specialist",
-      "company": "Twilio",
-      "location": "Remote - Estonia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-01",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8185918"
-    },
-    {
       "title": "Financial Manager",
       "company": "Twilio",
       "location": "Remote - Canada",
@@ -101,6 +91,16 @@
       "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8196096"
+    },
+    {
+      "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
+      "company": "Canonical",
+      "location": "Office Based - Beijing, China",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986"
     }
   ]
 }
