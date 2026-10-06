@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:25:07.116891+00:00",
+  "generated_at": "2026-10-06T09:12:31.195406+00:00",
   "count": 10,
   "jobs": [
     {
@@ -31,6 +31,36 @@
       "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
+    },
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+    },
+    {
+      "title": "Partner Development Manager",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
+    },
+    {
+      "title": "Specialist, Sales Compensation",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
     },
     {
       "title": "Enterprise Account Executive, Bengaluru",
@@ -68,39 +98,9 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-30",
+      "posted": "2026-10-05",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
-    },
-    {
-      "title": "Regional Vice President, Enterprise, Growth",
-      "company": "MongoDB",
-      "location": "Paris",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-30",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221350"
-    },
-    {
-      "title": "Financial Manager",
-      "company": "Twilio",
-      "location": "Remote - Canada",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-01",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/twilio/jobs/8196096"
-    },
-    {
-      "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
-      "company": "Canonical",
-      "location": "Office Based - Beijing, China",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-02",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986"
     }
   ]
 }
