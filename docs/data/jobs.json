@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-06T09:12:31.195406+00:00",
+  "generated_at": "2026-10-07T09:02:09.811575+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Intermediate Backend Engineer - Database Change Management",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-29",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8722304002"
-    },
     {
       "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
       "company": "GitLab",
@@ -31,16 +21,6 @@
       "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-05",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
     },
     {
       "title": "Partner Development Manager",
@@ -73,24 +53,14 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
     },
     {
-      "title": "Backend Engineer, AI Engineering: Duo Chat",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, United States",
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Boston",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-09-29",
+      "posted": "2026-10-05",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8698314002"
-    },
-    {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-09-29",
-      "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
     },
     {
       "title": "Account Development Representative - Benelux/Nordics",
@@ -101,6 +71,36 @@
       "posted": "2026-10-05",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
+    },
+    {
+      "title": "Account Development Representative - English Speaking",
+      "company": "MongoDB",
+      "location": "Kuala Lumpur",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
+    },
+    {
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
+    },
+    {
+      "title": "Enterprise Business Development Representative ",
+      "company": "MongoDB",
+      "location": "Mexico City",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
     }
   ]
 }
