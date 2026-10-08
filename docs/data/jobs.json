@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:02:09.811575+00:00",
+  "generated_at": "2026-10-08T09:18:07.304124+00:00",
   "count": 10,
   "jobs": [
     {
@@ -21,6 +21,16 @@
       "posted": "2026-10-01",
       "source": "Greenhouse",
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
+    },
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Bengaluru",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
     },
     {
       "title": "Partner Development Manager",
@@ -51,16 +61,6 @@
       "posted": "2026-10-02",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Boston",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-05",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
     },
     {
       "title": "Account Development Representative - Benelux/Nordics",
