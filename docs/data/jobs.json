@@ -1,34 +1,14 @@
 {
-  "generated_at": "2026-10-08T09:18:07.304124+00:00",
+  "generated_at": "2026-10-09T09:25:03.950812+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-01",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
-    },
-    {
-      "title": "Consulting Architect - Platform",
-      "company": "Elastic",
-      "location": "India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-01",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=7447426&gh_jid=7447426"
-    },
     {
       "title": "Account Development Representative",
       "company": "MongoDB",
       "location": "Bengaluru",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
     },
@@ -38,7 +18,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
     },
@@ -48,7 +28,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
     },
@@ -63,12 +43,32 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
     },
     {
+      "title": "Software Quality Assurance Engineer - Linux, PC, IoT",
+      "company": "Canonical",
+      "location": "Office Based - Beijing, China",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-02",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/8248986"
+    },
+    {
+      "title": "Business Development Representative, UK&I",
+      "company": "Vercel",
+      "location": "Hybrid - London",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-06",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
+    },
+    {
       "title": "Account Development Representative - Benelux/Nordics",
       "company": "MongoDB",
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     },
@@ -78,7 +78,7 @@
       "location": "Kuala Lumpur",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
@@ -88,7 +88,7 @@
       "location": "Toronto",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     },
@@ -98,7 +98,7 @@
       "location": "Mexico City",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-05",
+      "posted": "2026-10-08",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
     }
