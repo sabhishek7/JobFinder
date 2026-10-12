@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-11T09:08:40.930115+00:00",
+  "generated_at": "2026-10-12T09:33:10.605186+00:00",
   "count": 10,
   "jobs": [
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Bengaluru",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-09",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
+    },
     {
       "title": "Partner Development Manager",
       "company": "MongoDB",
@@ -43,16 +53,6 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
     },
     {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Boston",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-09",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
-    },
-    {
       "title": "Account Development Representative - Benelux/Nordics",
       "company": "MongoDB",
       "location": "Dublin",
@@ -73,16 +73,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
     {
-      "title": "Commercial Growth Account Executive",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-09",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
-    },
-    {
       "title": "Product Design Lead",
       "company": "Fuel50",
       "location": "",
@@ -101,6 +91,16 @@
       "posted": "2026-10-10",
       "source": "RemoteOK",
       "apply_url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481"
+    },
+    {
+      "title": "Marketing and Sales Administrator",
+      "company": "Hunt St",
+      "location": "",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-11",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488"
     }
   ]
 }
