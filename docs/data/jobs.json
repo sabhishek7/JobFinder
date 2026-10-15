@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-14T07:53:13.813160+00:00",
+  "generated_at": "2026-10-15T07:38:22.194566+00:00",
   "count": 10,
   "jobs": [
     {
       "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Gurugram",
+      "location": "Bengaluru",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-10-13",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
     },
     {
       "title": "Partner Development Manager",
@@ -43,6 +43,16 @@
       "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123"
     },
     {
+      "title": "Intermediate Backend Engineer, Cells Infrastructure",
+      "company": "GitLab",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-15",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8881474002"
+    },
+    {
       "title": "AE, Okta & Auth0",
       "company": "Okta",
       "location": "Tokyo, Japan",
@@ -55,22 +65,12 @@
     {
       "title": "Enterprise Account Executive, Auth0 - Join our Talent Community",
       "company": "Okta",
-      "location": "Melbourne, Australia",
+      "location": "Sydney, Australia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-10-09",
       "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8266092?gh_jid=8266092"
-    },
-    {
-      "title": "Account Development Representative - Arabic Speaking",
-      "company": "MongoDB",
-      "location": "Dublin",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-13",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8266089?gh_jid=8266089"
     },
     {
       "title": "Product Design Lead",
