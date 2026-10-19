@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:21:11.041762+00:00",
+  "generated_at": "2026-10-19T07:59:37.171208+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,16 +23,6 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
     },
     {
-      "title": "Intermediate Backend Engineer - Code Security",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-16",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8894531002"
-    },
-    {
       "title": "Partner Development Manager",
       "company": "MongoDB",
       "location": "Gurugram",
@@ -51,16 +41,6 @@
       "posted": "2026-10-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-17",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
     },
     {
       "title": "Senior Backend Engineer - Databases Tempo | Canada | Remote",
@@ -83,6 +63,16 @@
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
     },
     {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Boston",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
+    },
+    {
       "title": "Account Development Representative - Arabic Speaking",
       "company": "MongoDB",
       "location": "Dublin",
@@ -93,14 +83,24 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
     },
     {
-      "title": "Marketing and Sales Administrator",
-      "company": "Hunt St",
-      "location": "",
+      "title": "Account Development Representative - Benelux/Nordics",
+      "company": "MongoDB",
+      "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-11",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488"
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
+    },
+    {
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     }
   ]
 }
