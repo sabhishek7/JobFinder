@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:49:41.905495+00:00",
+  "generated_at": "2026-10-21T07:53:37.066237+00:00",
   "count": 10,
   "jobs": [
     {
@@ -43,6 +43,16 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
     },
     {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-17",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+    },
+    {
       "title": "Senior Backend Engineer - Databases Tempo | Canada | Remote",
       "company": "Grafana Labs",
       "location": "Canada (Remote)",
@@ -61,16 +71,6 @@
       "posted": "2026-10-15",
       "source": "Greenhouse",
       "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Boston",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
