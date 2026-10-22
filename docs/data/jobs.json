@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-21T07:53:37.066237+00:00",
+  "generated_at": "2026-10-22T07:49:28.956341+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Marketing AI Engineer",
-      "company": "Elastic",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-14",
-      "source": "Greenhouse",
-      "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123"
-    },
     {
       "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
       "company": "GitLab",
@@ -21,6 +11,16 @@
       "posted": "2026-10-15",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
+    },
+    {
+      "title": "Intermediate Backend Engineer, India",
+      "company": "GitLab",
+      "location": "Bangalore, India",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-15",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002"
     },
     {
       "title": "Partner Development Manager",
@@ -53,14 +53,24 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
     },
     {
-      "title": "Senior Backend Engineer - Databases Tempo | Canada | Remote",
-      "company": "Grafana Labs",
-      "location": "Canada (Remote)",
+      "title": "CSP Cloud Desk Support Desk",
+      "company": "Okta",
+      "location": "Bengaluru, India",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-14",
+      "posted": "2026-10-21",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6223410004"
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8305392?gh_jid=8305392"
+    },
+    {
+      "title": "Commercial Account Executive",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-10-21",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
     },
     {
       "title": "Manager I, Engineering - Security Libraries",
@@ -91,16 +101,6 @@
       "posted": "2026-10-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
-    },
-    {
-      "title": "Commercial Growth Account Executive",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     }
   ]
 }
