@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-10-22T07:49:28.956341+00:00",
+  "generated_at": "2026-10-23T07:48:49.065063+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-15",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
-    },
-    {
-      "title": "Intermediate Backend Engineer, India",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-15",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002"
-    },
     {
       "title": "Partner Development Manager",
       "company": "MongoDB",
@@ -43,26 +23,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
     },
     {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-17",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
-    },
-    {
-      "title": "CSP Cloud Desk Support Desk",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-21",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8305392?gh_jid=8305392"
-    },
-    {
       "title": "Commercial Account Executive",
       "company": "Okta",
       "location": "Bengaluru, India",
@@ -73,14 +33,14 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
     },
     {
-      "title": "Manager I, Engineering - Security Libraries",
-      "company": "Datadog",
-      "location": "Paris, France",
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Boston",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-15",
+      "posted": "2026-10-16",
       "source": "Greenhouse",
-      "apply_url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
@@ -101,6 +61,46 @@
       "posted": "2026-10-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
+    },
+    {
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
+    },
+    {
+      "title": "Enterprise Business Development Representative ",
+      "company": "MongoDB",
+      "location": "Mexico City",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
+    },
+    {
+      "title": "Regional Vice President, Enterprise, Growth",
+      "company": "MongoDB",
+      "location": "Paris",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221350"
+    },
+    {
+      "title": "Enterprise Account Executive, Acquisition",
+      "company": "MongoDB",
+      "location": "Sydney",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-20",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=6586315"
     }
   ]
 }
