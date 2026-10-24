@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-10-23T07:48:49.065063+00:00",
+  "generated_at": "2026-10-24T07:30:23.351936+00:00",
   "count": 10,
   "jobs": [
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Gurugram",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-23",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+    },
     {
       "title": "Partner Development Manager",
       "company": "MongoDB",
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-16",
+      "posted": "2026-10-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
     },
@@ -18,7 +28,7 @@
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-16",
+      "posted": "2026-10-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7558720"
     },
@@ -33,14 +43,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
     },
     {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Boston",
+      "title": "Business Development Representative, UK&I",
+      "company": "Vercel",
+      "location": "Hybrid - London",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-16",
+      "posted": "2026-10-20",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
+    },
+    {
+      "title": "Solutions Architect",
+      "company": "Vercel",
+      "location": "Remote - United Kingdom, Germany",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-20",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
@@ -48,7 +68,7 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-16",
+      "posted": "2026-10-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
     },
@@ -58,9 +78,19 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-16",
+      "posted": "2026-10-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
+    },
+    {
+      "title": "Account Development Representative - English Speaking (SDR/BDR)",
+      "company": "MongoDB",
+      "location": "Dublin, Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-23",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
     },
     {
       "title": "Commercial Growth Account Executive",
@@ -68,39 +98,9 @@
       "location": "Toronto",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-16",
+      "posted": "2026-10-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
-    },
-    {
-      "title": "Enterprise Business Development Representative ",
-      "company": "MongoDB",
-      "location": "Mexico City",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
-    },
-    {
-      "title": "Regional Vice President, Enterprise, Growth",
-      "company": "MongoDB",
-      "location": "Paris",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8221350"
-    },
-    {
-      "title": "Enterprise Account Executive, Acquisition",
-      "company": "MongoDB",
-      "location": "Sydney",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-20",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=6586315"
     }
   ]
 }
