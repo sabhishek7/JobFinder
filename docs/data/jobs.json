@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-10-27T08:10:32.891106+00:00",
+  "generated_at": "2026-10-28T08:49:42.380102+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-23",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
-    },
     {
       "title": "Partner Development Manager",
       "company": "MongoDB",
       "location": "Gurugram",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
     },
@@ -33,24 +23,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
     },
     {
-      "title": "Business Development Representative, UK&I",
-      "company": "Vercel",
-      "location": "Hybrid - London",
+      "title": "Staff FullStack Engineer - Application Core Services | Canada | Remote",
+      "company": "Grafana Labs",
+      "location": "Canada (Remote)",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-20",
+      "posted": "2026-10-26",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
+      "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208526004"
     },
     {
-      "title": "Solutions Architect",
-      "company": "Vercel",
-      "location": "Remote - United Kingdom, Germany",
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Kuala Lumpur",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-20",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
@@ -58,7 +48,7 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
     },
@@ -68,7 +58,7 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     },
@@ -78,7 +68,7 @@
       "location": "Dublin, Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
     },
@@ -88,7 +78,7 @@
       "location": "Toronto",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8160426"
     },
@@ -98,9 +88,19 @@
       "location": "Mexico City",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-10-23",
+      "posted": "2026-10-27",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318049"
+    },
+    {
+      "title": "Inside Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-27",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8314019"
     }
   ]
 }
