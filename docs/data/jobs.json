@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T08:51:02.934144+00:00",
+  "generated_at": "2026-10-31T08:39:07.202068+00:00",
   "count": 10,
   "jobs": [
     {
@@ -23,16 +23,6 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002"
     },
     {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Bengaluru",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-10-28",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
-    },
-    {
       "title": "Partner Development Manager",
       "company": "MongoDB",
       "location": "Gurugram",
@@ -51,6 +41,16 @@
       "posted": "2026-10-26",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208526004"
+    },
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Kuala Lumpur",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-10-28",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
