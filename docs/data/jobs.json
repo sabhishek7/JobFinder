@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:02:19.334057+00:00",
+  "generated_at": "2026-11-10T10:12:48.896125+00:00",
   "count": 10,
   "jobs": [
     {
@@ -53,16 +53,6 @@
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002"
     },
     {
-      "title": "Telco Field Engineering Director",
-      "company": "Canonical",
-      "location": "Home based - EMEA",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-02",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7778744"
-    },
-    {
       "title": "Software Developer in Observability",
       "company": "Canonical",
       "location": "Home based - EMEA",
@@ -85,12 +75,12 @@
     {
       "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Toronto",
+      "location": "Sydney",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-11-05",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8187896"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
@@ -101,6 +91,16 @@
       "posted": "2026-11-05",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
+    },
+    {
+      "title": "Account Development Representative - Benelux/Nordics",
+      "company": "MongoDB",
+      "location": "Dublin",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-05",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     }
   ]
 }
