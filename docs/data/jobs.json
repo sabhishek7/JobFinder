@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-11-13T09:50:32.547731+00:00",
+  "generated_at": "2026-11-14T09:13:32.646603+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Intermediate Backend Engineer, Authorization",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-06",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8905402002"
-    },
-    {
-      "title": "Intermediate Backend Engineer, India",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-06",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002"
-    },
-    {
-      "title": "Intermediate Backend Engineer , Security Factory",
-      "company": "GitLab",
-      "location": "Bangalore, India",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-06",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002"
-    },
     {
       "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
       "company": "GitLab",
@@ -41,6 +11,16 @@
       "posted": "2026-11-10",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
+    },
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "Bengaluru",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-12",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
     },
     {
       "title": "Partner Development Manager",
@@ -53,6 +33,26 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
     },
     {
+      "title": "Commercial Account Executive",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-11-13",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
+    },
+    {
+      "title": "Enterprise Account Executive, Bengaluru",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-11-13",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
+    },
+    {
       "title": "Business Development Representative, UK&I",
       "company": "Vercel",
       "location": "Hybrid - London",
@@ -61,16 +61,6 @@
       "posted": "2026-11-10",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Toronto",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-12",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
@@ -101,6 +91,16 @@
       "posted": "2026-11-12",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
+    },
+    {
+      "title": "Global Partnerships BD Lead",
+      "company": "Fuku",
+      "location": "Paris",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-13",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-global-partnerships-bd-lead-fuku-1137796"
     }
   ]
 }
