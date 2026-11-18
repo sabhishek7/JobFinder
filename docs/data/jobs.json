@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-11-17T10:58:56.532970+00:00",
+  "generated_at": "2026-11-18T10:28:37.549906+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, Poland; Remote, United Kingdom",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-10",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002"
-    },
     {
       "title": "Partner Development Manager",
       "company": "MongoDB",
@@ -45,42 +35,12 @@
     {
       "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Toronto",
+      "location": "Sydney",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-11-16",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7311234"
-    },
-    {
-      "title": "Account Development Representative - Arabic Speaking",
-      "company": "MongoDB",
-      "location": "Dublin",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
-    },
-    {
-      "title": "Account Development Representative - Benelux/Nordics",
-      "company": "MongoDB",
-      "location": "Dublin",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
-    },
-    {
-      "title": "Account Development Representative - English Speaking (SDR/BDR)",
-      "company": "MongoDB",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8187896"
     },
     {
       "title": "Commercial Growth Account Executive",
@@ -91,6 +51,46 @@
       "posted": "2026-11-16",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7172630"
+    },
+    {
+      "title": "Enterprise Business Development Representative",
+      "company": "MongoDB",
+      "location": "Boston",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
+    },
+    {
+      "title": "Financial Analyst, P&T",
+      "company": "MongoDB",
+      "location": "New York City",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8328622"
+    },
+    {
+      "title": "Inside Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8314019"
+    },
+    {
+      "title": "Renewals Specialist",
+      "company": "MongoDB",
+      "location": "Mexico City",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-16",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8318375"
     },
     {
       "title": "Global Partnerships BD Lead",
