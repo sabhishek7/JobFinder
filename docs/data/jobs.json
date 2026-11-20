@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-11-19T10:36:25.325848+00:00",
+  "generated_at": "2026-11-20T10:17:08.171833+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Partner Development Manager",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8205445"
-    },
     {
       "title": "Commercial Account Executive",
       "company": "Okta",
@@ -33,14 +23,24 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
     },
     {
+      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
+      "company": "Okta",
+      "location": "Bengaluru, India",
+      "work_mode": "On-site",
+      "salary": "Not disclosed",
+      "posted": "2026-11-20",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
+    },
+    {
       "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Kuala Lumpur",
+      "location": "Sydney",
       "work_mode": "Remote",
       "salary": "Not disclosed",
       "posted": "2026-11-16",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8079914"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8187896"
     },
     {
       "title": "Commercial Growth Account Executive",
@@ -83,16 +83,6 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     },
     {
-      "title": "Account Development Representative - English Speaking (SDR/BDR)",
-      "company": "MongoDB",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-17",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
-    },
-    {
       "title": "Global Partnerships BD Lead",
       "company": "Fuku",
       "location": "Paris",
@@ -101,6 +91,16 @@
       "posted": "2026-11-13",
       "source": "RemoteOK",
       "apply_url": "https://remoteOK.com/remote-jobs/remote-global-partnerships-bd-lead-fuku-1137796"
+    },
+    {
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "location": "",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-18",
+      "source": "RemoteOK",
+      "apply_url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805"
     }
   ]
 }
