@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:17:08.171833+00:00",
+  "generated_at": "2026-11-21T10:01:30.728613+00:00",
   "count": 10,
   "jobs": [
     {
@@ -31,16 +31,6 @@
       "posted": "2026-11-20",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
-    },
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Sydney",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8187896"
     },
     {
       "title": "Commercial Growth Account Executive",
@@ -83,14 +73,24 @@
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     },
     {
-      "title": "Global Partnerships BD Lead",
-      "company": "Fuku",
-      "location": "Paris",
+      "title": "Account Development Representative - English Speaking (SDR/BDR)",
+      "company": "MongoDB",
+      "location": "Dublin, Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-13",
-      "source": "RemoteOK",
-      "apply_url": "https://remoteOK.com/remote-jobs/remote-global-partnerships-bd-lead-fuku-1137796"
+      "posted": "2026-11-17",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
+    },
+    {
+      "title": "Renewals Manager (Italian Speaker) ",
+      "company": "MongoDB",
+      "location": "Dublin, Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-17",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8318370"
     },
     {
       "title": "SEO Full Stack Engineer",
