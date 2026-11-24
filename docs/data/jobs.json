@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-11-23T10:59:42.399658+00:00",
+  "generated_at": "2026-11-24T12:46:55.114331+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Commercial Account Executive",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8288466?gh_jid=8288466"
-    },
-    {
-      "title": "Enterprise Account Executive, Bengaluru",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-11-16",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8003027?gh_jid=8003027"
-    },
     {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
       "company": "Okta",
@@ -33,24 +13,64 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
     },
     {
-      "title": "Commercial Growth Account Executive",
-      "company": "MongoDB",
-      "location": "Boston",
+      "title": "Business Development Representative, UK&I",
+      "company": "Vercel",
+      "location": "Hybrid - London",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-16",
+      "posted": "2026-11-18",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7172630"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
     },
     {
-      "title": "Enterprise Business Development Representative",
-      "company": "MongoDB",
-      "location": "Boston",
+      "title": "Customer Support Engineer",
+      "company": "Vercel",
+      "location": "Remote - Australia",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-16",
+      "posted": "2026-11-18",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6230763004"
+    },
+    {
+      "title": "Software Developer in Observability",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-19",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/2166631"
+    },
+    {
+      "title": "AE, Okta & Auth0",
+      "company": "Okta",
+      "location": "Tokyo, Japan",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-20",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
+    },
+    {
+      "title": "Localization Coordinator",
+      "company": "Okta",
+      "location": "Poland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-20",
+      "source": "Greenhouse",
+      "apply_url": "https://www.okta.com/company/careers/opportunity/7858260?gh_jid=7858260"
+    },
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "S\u00e3o Paulo",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-23",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318028"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
@@ -58,7 +78,7 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-17",
+      "posted": "2026-11-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
     },
@@ -68,7 +88,7 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-17",
+      "posted": "2026-11-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     },
@@ -78,29 +98,9 @@
       "location": "Dublin, Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-17",
+      "posted": "2026-11-23",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
-    },
-    {
-      "title": "Renewals Manager (Italian Speaker) ",
-      "company": "MongoDB",
-      "location": "Dublin, Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-17",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8318370"
-    },
-    {
-      "title": "Technical Recruiter, Contract",
-      "company": "MongoDB",
-      "location": "Dublin, Ireland; Ireland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-18",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8398670"
     }
   ]
 }
