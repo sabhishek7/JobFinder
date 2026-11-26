@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-25T11:33:19.885721+00:00",
+  "generated_at": "2026-11-26T11:15:47.058208+00:00",
   "count": 10,
   "jobs": [
     {
       "title": "Account Development Representative",
       "company": "MongoDB",
-      "location": "Gurugram",
+      "location": "Bengaluru",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-23",
+      "posted": "2026-11-25",
       "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318466"
     },
     {
       "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
@@ -21,26 +21,6 @@
       "posted": "2026-11-20",
       "source": "Greenhouse",
       "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
-    },
-    {
-      "title": "Business Development Representative, UK&I",
-      "company": "Vercel",
-      "location": "Hybrid - London",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-18",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004"
-    },
-    {
-      "title": "Customer Support Engineer",
-      "company": "Vercel",
-      "location": "Remote - Australia",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-18",
-      "source": "Greenhouse",
-      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6230763004"
     },
     {
       "title": "Software Developer in Observability",
@@ -73,12 +53,22 @@
       "apply_url": "https://www.okta.com/company/careers/opportunity/7858260?gh_jid=7858260"
     },
     {
+      "title": "Developer Experiences Manager",
+      "company": "Vercel",
+      "location": "Hybrid - London",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-24",
+      "source": "Greenhouse",
+      "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6270483004"
+    },
+    {
       "title": "Account Development Representative - Arabic Speaking",
       "company": "MongoDB",
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-23",
+      "posted": "2026-11-25",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8273899"
     },
@@ -88,7 +78,7 @@
       "location": "Dublin",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-23",
+      "posted": "2026-11-25",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8240010"
     },
@@ -98,9 +88,19 @@
       "location": "Dublin, Ireland",
       "work_mode": "Remote",
       "salary": "Not disclosed",
-      "posted": "2026-11-23",
+      "posted": "2026-11-25",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8305915"
+    },
+    {
+      "title": "Commercial Growth Account Executive",
+      "company": "MongoDB",
+      "location": "Boston",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-25",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7172630"
     }
   ]
 }
