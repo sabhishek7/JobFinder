@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-11-27T11:09:48.639868+00:00",
+  "generated_at": "2026-11-28T10:43:13.232152+00:00",
   "count": 10,
   "jobs": [
-    {
-      "title": "Account Development Representative",
-      "company": "MongoDB",
-      "location": "Gurugram",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-25",
-      "source": "Greenhouse",
-      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7318558"
-    },
-    {
-      "title": "Tax Senior Analyst, Foreign Compliance and Reporting",
-      "company": "Okta",
-      "location": "Bengaluru, India",
-      "work_mode": "On-site",
-      "salary": "Not disclosed",
-      "posted": "2026-11-20",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/8079016?gh_jid=8079016"
-    },
-    {
-      "title": "AE, Okta & Auth0",
-      "company": "Okta",
-      "location": "Tokyo, Japan",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-20",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7992071?gh_jid=7992071"
-    },
-    {
-      "title": "Localization Coordinator",
-      "company": "Okta",
-      "location": "Poland",
-      "work_mode": "Remote",
-      "salary": "Not disclosed",
-      "posted": "2026-11-20",
-      "source": "Greenhouse",
-      "apply_url": "https://www.okta.com/company/careers/opportunity/7858260?gh_jid=7858260"
-    },
     {
       "title": "Developer Experiences Manager",
       "company": "Vercel",
@@ -51,6 +11,16 @@
       "posted": "2026-11-24",
       "source": "Greenhouse",
       "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6270483004"
+    },
+    {
+      "title": "Account Development Representative",
+      "company": "MongoDB",
+      "location": "New York City",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-25",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310506"
     },
     {
       "title": "Account Development Representative - Arabic Speaking",
@@ -101,6 +71,36 @@
       "posted": "2026-11-25",
       "source": "Greenhouse",
       "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=7310552"
+    },
+    {
+      "title": "Financial Analyst, P&T",
+      "company": "MongoDB",
+      "location": "New York City",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-25",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8328622"
+    },
+    {
+      "title": "Inside Account Executive",
+      "company": "MongoDB",
+      "location": "Toronto",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-25",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8314019"
+    },
+    {
+      "title": "Renewals Manager (Italian Speaker) ",
+      "company": "MongoDB",
+      "location": "Dublin, Ireland",
+      "work_mode": "Remote",
+      "salary": "Not disclosed",
+      "posted": "2026-11-25",
+      "source": "Greenhouse",
+      "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8318370"
     }
   ]
 }
